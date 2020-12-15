@@ -35,7 +35,7 @@
     CONVERSION DELAY (in mS)
     -----------------------------------------------------------------------*/
 #define ADS1015_CONVERSIONDELAY (1) ///< Conversion delay
-#define ADS1115_CONVERSIONDELAY (9) ///< Conversion delay
+#define ADS1115_CONVERSIONDELAY (1) ///< Conversion delay
 /*=========================================================================*/
 
 /*=========================================================================
